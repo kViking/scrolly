@@ -1,0 +1,15 @@
+# scrollY Configuration
+# Place a config.yaml in site/ to override these defaults
+
+# Window title for Wails desktop app
+title: "scrollY Presentation"
+
+# Window dimensions
+window:
+  width: 1200
+  height: 800
+
+# Application metadata
+app:
+  name: "scrollY"
+  version: "1.0.0"

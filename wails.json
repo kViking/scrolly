@@ -1,0 +1,23 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "scrolly",
+  "outputfilename": "scrolly-wails",
+  "frontend:install": "",
+  "frontend:build": "",
+  "frontend:dev:watcher": "",
+  "frontend:dev:serverUrl": "",
+  "author": {
+    "name": "",
+    "email": ""
+  },
+  "info": {
+    "companyName": "scrollY",
+    "productName": "scrollY Presentation",
+    "productVersion": "1.0.0",
+    "copyright": "Copyright.........",
+    "comments": "Portable scrollytelling presentations"
+  },
+  "wailsjsdir": "./frontend",
+  "version": "2",
+  "debounceMS": 100
+}

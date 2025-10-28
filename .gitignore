@@ -1,0 +1,9 @@
+# HTTP server binaries
+scrolly-darwin-amd64
+scrolly-darwin-arm64
+scrolly-windows.exe
+scrolly-linux
+
+# Wails build output
+build/
+frontend/
